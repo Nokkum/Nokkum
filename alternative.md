@@ -16,4 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Nokkum&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Nokkum&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+<img src="https://github.com/Nokkum/Nokkum/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
